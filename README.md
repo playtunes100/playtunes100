@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @playtunes100
+- 👋 Hi, I’m Chikane Mashaba
 - 👀 I’m interested in making things
-- 🌱 I’m currently learning python, java and c#
+- 🌱 I’m currently learning Python, JavaScript and C#
 - 💞️ I’m looking to collaborate on anything that can teach me more about the languages i'm currently learning.
 - 📫 How to reach me? yell my name out loud.
 
